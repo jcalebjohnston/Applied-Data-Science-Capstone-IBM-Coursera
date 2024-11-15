@@ -33,6 +33,7 @@ All Jupyter Notebook files have been uploaded to this repository
 
 3. **Data Wrangling**  
    Cleaned the data by filtering out Falcon 1 launches and handling missing values in the **PayloadMass** column using mean imputation.
+   Classifying all Success as "1" and all Failures as "0" by introducing a new column.
 
 ## Installation
 1. Clone this repository to your local machine:
