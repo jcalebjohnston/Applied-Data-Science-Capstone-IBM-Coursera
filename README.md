@@ -33,3 +33,11 @@ All Jupyter Notebook files have been uploaded to this repository
 
 3. **Data Wrangling**  
    Cleaned the data by filtering out Falcon 1 launches and handling missing values in the **PayloadMass** column using mean imputation.
+
+## Installation
+1. Clone this repository to your local machine:
+   `https://github.com/jcalebjohnston/Applied-Data-Science-Capstone-IBM-Coursera.git`
+2. Install the necessary libraries, All necessary libraries are listed in the Jupyter notebooks:
+```bash
+pip install requests beautifulsoup4 pandas scikit-learn
+3. Run the Jupyter notebooks for data collection, cleaning, and modeling. In the format of the ** Key Tasks Completed** Section
