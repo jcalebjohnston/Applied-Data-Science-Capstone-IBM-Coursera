@@ -38,6 +38,5 @@ All Jupyter Notebook files have been uploaded to this repository
 1. Clone this repository to your local machine:
    `https://github.com/jcalebjohnston/Applied-Data-Science-Capstone-IBM-Coursera.git`
 2. Install the necessary libraries, All necessary libraries are listed in the Jupyter notebooks:
-```bash
-pip install requests beautifulsoup4 pandas scikit-learn
+```pip install requests beautifulsoup4 pandas scikit-learn```
 3. Run the Jupyter notebooks for data collection, cleaning, and modeling. In the format of the ** Key Tasks Completed** Section
