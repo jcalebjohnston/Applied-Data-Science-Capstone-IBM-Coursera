@@ -35,6 +35,15 @@ All Jupyter Notebook files have been uploaded to this repository
    Cleaned the data by filtering out Falcon 1 launches and handling missing values in the **PayloadMass** column using mean imputation.
    Classifying all Success as "1" and all Failures as "0" by introducing a new column.
 
+4. **Exploratory Data Analysis**  
+   Performed EDA with SQL, and visualization techniques and later implemented one hot encoding on dataset.
+
+5. **Interactive Visual Analysis and Dashboarding**  
+   Visualized Launch Sites on maps for further analysis with Foilum and built interactive dashboads using Ploty Dash to gather further insights into dataset.
+
+6. **Predictive Modeling**  
+   Implemented various Machine Learning Techniques, evaluated them and selected the best fir fro the problem at hand.
+
 ## Installation
 1. Clone this repository to your local machine:
    `https://github.com/jcalebjohnston/Applied-Data-Science-Capstone-IBM-Coursera.git`
